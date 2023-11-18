@@ -1,4 +1,4 @@
-##Change bg color:
+## Change bg color:
 
   `
 backgroundColor: Colors.blue,
@@ -15,7 +15,7 @@ To change the colour of the bar, use it inside the AppBar widget.
  
 For providing colour to the entire background, use it inside Scaffold.
 
-##Change text color
+## Change text color
 `
 Text(
   'Hello, World!',
@@ -25,7 +25,7 @@ Text(
 )
 `
 
-##To change your font:
+## To change your font:
 
 
 1)First, add your font file (e.g., .ttf or .otf) to your project.
