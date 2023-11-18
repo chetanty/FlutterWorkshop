@@ -1,5 +1,7 @@
 # Flutter Workshop at Hacked Beta 2023 by Chetan Tyagi from GDSC.
 
+Slides- https://docs.google.com/presentation/d/1KNvmRDyAoffiqC74tDBGFZhRshCUvGTkQ8Y0LJMcMAA/edit?usp=sharing
+
 Dart Pad Link- https://dartpad.dev/
 
 Flutter Download- https://docs.flutter.dev/get-started/install
