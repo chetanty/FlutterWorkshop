@@ -6,15 +6,15 @@ backgroundColor: Colors.blue,
 
 To change the colour of the bar, use it inside the AppBar widget.
 
-`
 
+```
         appBar: AppBar(
         
           backgroundColor: Colors.blue,
           
           title: Text('Hello, World!'),
         ),
- `
+ ```
  
 For providing colour to the entire background, use it inside Scaffold.
 
