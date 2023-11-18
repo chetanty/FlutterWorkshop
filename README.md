@@ -1,6 +1,6 @@
 ## Change bg color:
 
-  `
+`
 backgroundColor: Colors.blue,
 `
 
