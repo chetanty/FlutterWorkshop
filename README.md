@@ -15,10 +15,13 @@ Text(
   ),
 )
 `
+
 To change your font:
+
 
 First, add your font file (e.g., .ttf or .otf) to your project.
 Update your pubspec.yaml file to include the font:
+
 `
 flutter:
   fonts:
@@ -26,6 +29,7 @@ flutter:
       fonts:
         - asset: assets/fonts/your_font_file.ttf
 `
+
 `
 Text(
   'Hello, World!',
@@ -34,11 +38,15 @@ Text(
   ),
 )
 `
-use widget
+
+Use text in Widgets-
+
 `
 Text('Hello, World!')
 `
-for debugging
+
+For debugging-
 `
+
 print('Hello, World!');
 `
