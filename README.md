@@ -1,14 +1,21 @@
-Change bg color:
+##Change bg color:
 
   `
 backgroundColor: Colors.blue,
 `
 
-For a bar- (Use it inside the bar property)
+To change the colour of the bar, use it inside the AppBar widget.
 
-For the entire thing, use it inside Scaffold
+`
+        appBar: AppBar(
+          backgroundColor: Colors.blue,
+          title: Text('Hello, World!'),
+        ),
+ `
+ 
+For providing colour to the entire background, use it inside Scaffold.
 
-Change text color
+##Change text color
 `
 Text(
   'Hello, World!',
@@ -18,11 +25,12 @@ Text(
 )
 `
 
-To change your font:
+##To change your font:
 
 
-First, add your font file (e.g., .ttf or .otf) to your project.
-Update your pubspec.yaml file to include the font:
+1)First, add your font file (e.g., .ttf or .otf) to your project.
+
+2)Update your pubspec.yaml file to include the font:
 
 `
 flutter:
