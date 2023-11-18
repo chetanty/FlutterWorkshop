@@ -37,26 +37,18 @@ Text(
 
 ```
 flutter:
-
   fonts:
-  
     - family: YourFontFamily
-    
       fonts:
-      
         - asset: assets/fonts/your_font_file.ttf
         
 ```
 ```
 
 Text(
-
   'Hello, World!',
-  
   style: TextStyle(
-  
     fontFamily: 'YourFontFamily',
-    
   ),
 )
 
