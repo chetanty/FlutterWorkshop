@@ -1,7 +1,9 @@
 Change bg color:
+
   `
-backgroundColor: Colors.blue, // Replace with the color of your choice
+backgroundColor: Colors.blue,
 `
+
 For a bar- (Use it inside the bar property)
 
 For the entire thing, use it inside Scaffold
