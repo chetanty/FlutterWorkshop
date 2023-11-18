@@ -1,4 +1,4 @@
-Flutter Workshop at Hacked Beta 2023 by Chetan Tyagi from GDSC.
+# Flutter Workshop at Hacked Beta 2023 by Chetan Tyagi from GDSC.
 
 
 ## Change bg color:
