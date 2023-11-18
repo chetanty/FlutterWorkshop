@@ -7,6 +7,7 @@ backgroundColor: Colors.blue,
 To change the colour of the bar, use it inside the AppBar widget.
 
 `
+
         appBar: AppBar(
         
           backgroundColor: Colors.blue,
