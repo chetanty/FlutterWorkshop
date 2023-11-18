@@ -21,9 +21,13 @@ For providing colour to the entire background, use it inside Scaffold.
 ## Change text color
 `
 Text(
+
   'Hello, World!',
+  
   style: TextStyle(
-    color: Colors.red, // Replace with the color of your choice
+  
+    color: Colors.red, 
+    
   ),
 )
 `
@@ -37,17 +41,26 @@ Text(
 
 `
 flutter:
+
   fonts:
+  
     - family: YourFontFamily
+    
       fonts:
+      
         - asset: assets/fonts/your_font_file.ttf
+        
 `
 
 `
 Text(
+
   'Hello, World!',
+  
   style: TextStyle(
+  
     fontFamily: 'YourFontFamily',
+    
   ),
 )
 `
