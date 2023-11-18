@@ -4,7 +4,7 @@ Dart Pad Link- https://dartpad.dev/
 
 Flutter Download- https://docs.flutter.dev/get-started/install
 
-Flutter Documentation- https://docs.flutter.dev/get-started/install
+Flutter Documentation- https://docs.flutter.dev
 
 ## Change bg color:
 
